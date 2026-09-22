@@ -66,8 +66,8 @@ are not calibrated win probabilities.
 ```
 f1-baku-prediction/
 ├── notebooks/
-│   ├── baku_tutorial_original.ipynb   # the notebook, clean
-│   └── baku_run_2026-09-22.ipynb      # same notebook with run outputs saved
+│   ├── baku_model.ipynb               # the model, clean and runnable
+│   └── baku_run_2026-09-22.ipynb      # the 2026-09-22 run, outputs and chart saved
 └── outputs/
     ├── baku_model.joblib              # trained model
     ├── baku_model.json                # same model, XGBoost native format
@@ -89,7 +89,7 @@ python3 -m venv .venv
 ./.venv/bin/pip install "fastf1>=3.6,<4" "scikit-learn>=1.6,<2" \
     "xgboost>=3.0,<4" matplotlib joblib nbconvert ipykernel
 ./.venv/bin/python -m nbconvert --to notebook --execute \
-    notebooks/baku_tutorial_original.ipynb
+    notebooks/baku_model.ipynb
 ```
 
 First run creates a `baku_cache/` folder (~4MB) of downloaded results, so later
