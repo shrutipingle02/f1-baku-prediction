@@ -121,5 +121,5 @@ with `driverId, constructorId, driver, team` columns.
 
 ---
 
-Built from a Colab tutorial on F1 race prediction; extended and run locally.
+
 Data: [FastF1](https://github.com/theOehrly/Fast-F1) / Ergast.
