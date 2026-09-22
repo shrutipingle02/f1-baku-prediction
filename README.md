@@ -1,8 +1,7 @@
 # F1 Baku Winner Prediction
 
 An XGBoost model that ranks the field for the Azerbaijan Grand Prix before the
-race weekend starts — using only past race results, no qualifying, grid,
-weather or live timing data.
+race weekend starts using only past race results.
 
 **Latest run (2026-09-22) picks Andrea Kimi Antonelli, 53.6%.**
 
