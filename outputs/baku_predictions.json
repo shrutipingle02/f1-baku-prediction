@@ -1,0 +1,154 @@
+{
+  "race": "Azerbaijan Grand Prix",
+  "circuit": "baku",
+  "year": 2026,
+  "model_type": "XGBClassifier",
+  "xgboost_version": "3.4.1",
+  "race_date": "2026-09-26",
+  "generated_at": "2026-09-22T17:19:12.502337+00:00",
+  "data_through": "2026-09-13",
+  "entry_source": "Most recent completed race; confirm substitutions",
+  "mode": "pre_qualifying",
+  "score_label": "Normalized model score; not a calibrated win probability",
+  "model_pick": "Andrea Kimi Antonelli",
+  "evaluation": {
+    "test_year": 2025,
+    "test_races": 24,
+    "winner_accuracy": 0.3333333333333333,
+    "recent_form_baseline_accuracy": 0.2916666666666667
+  },
+  "predictions": [
+    {
+      "driverId": "antonelli",
+      "driver": "Andrea Kimi Antonelli",
+      "team": "Mercedes",
+      "win_score": 0.5355712175369263
+    },
+    {
+      "driverId": "max_verstappen",
+      "driver": "Max Verstappen",
+      "team": "Red Bull",
+      "win_score": 0.1323598027229309
+    },
+    {
+      "driverId": "norris",
+      "driver": "Lando Norris",
+      "team": "McLaren",
+      "win_score": 0.10878519713878632
+    },
+    {
+      "driverId": "russell",
+      "driver": "George Russell",
+      "team": "Mercedes",
+      "win_score": 0.07771466672420502
+    },
+    {
+      "driverId": "leclerc",
+      "driver": "Charles Leclerc",
+      "team": "Ferrari",
+      "win_score": 0.05470044165849686
+    },
+    {
+      "driverId": "hamilton",
+      "driver": "Lewis Hamilton",
+      "team": "Ferrari",
+      "win_score": 0.03349829465150833
+    },
+    {
+      "driverId": "piastri",
+      "driver": "Oscar Piastri",
+      "team": "McLaren",
+      "win_score": 0.019857121631503105
+    },
+    {
+      "driverId": "lawson",
+      "driver": "Liam Lawson",
+      "team": "Red Bull",
+      "win_score": 0.010742941871285439
+    },
+    {
+      "driverId": "colapinto",
+      "driver": "Franco Colapinto",
+      "team": "Alpine F1 Team",
+      "win_score": 0.002902835374698043
+    },
+    {
+      "driverId": "hulkenberg",
+      "driver": "Nico H\u00fclkenberg",
+      "team": "Audi",
+      "win_score": 0.002902835374698043
+    },
+    {
+      "driverId": "gasly",
+      "driver": "Pierre Gasly",
+      "team": "Alpine F1 Team",
+      "win_score": 0.002902835374698043
+    },
+    {
+      "driverId": "ocon",
+      "driver": "Esteban Ocon",
+      "team": "Haas F1 Team",
+      "win_score": 0.0023556570522487164
+    },
+    {
+      "driverId": "stroll",
+      "driver": "Lance Stroll",
+      "team": "Aston Martin",
+      "win_score": 0.0023556570522487164
+    },
+    {
+      "driverId": "bottas",
+      "driver": "Valtteri Bottas",
+      "team": "Cadillac F1 Team",
+      "win_score": 0.0019135340116918087
+    },
+    {
+      "driverId": "tsunoda",
+      "driver": "Yuki Tsunoda",
+      "team": "RB F1 Team",
+      "win_score": 0.0018413640791550279
+    },
+    {
+      "driverId": "bortoleto",
+      "driver": "Gabriel Bortoleto",
+      "team": "Audi",
+      "win_score": 0.0015582650667056441
+    },
+    {
+      "driverId": "bearman",
+      "driver": "Oliver Bearman",
+      "team": "Haas F1 Team",
+      "win_score": 0.0015582650667056441
+    },
+    {
+      "driverId": "albon",
+      "driver": "Alexander Albon",
+      "team": "Williams",
+      "win_score": 0.0015157269081100821
+    },
+    {
+      "driverId": "sainz",
+      "driver": "Carlos Sainz",
+      "team": "Williams",
+      "win_score": 0.001308242790400982
+    },
+    {
+      "driverId": "alonso",
+      "driver": "Fernando Alonso",
+      "team": "Aston Martin",
+      "win_score": 0.0012278404319658875
+    },
+    {
+      "driverId": "perez",
+      "driver": "Sergio P\u00e9rez",
+      "team": "Cadillac F1 Team",
+      "win_score": 0.0012278404319658875
+    },
+    {
+      "driverId": "arvid_lindblad",
+      "driver": "Arvid Lindblad",
+      "team": "RB F1 Team",
+      "win_score": 0.0011993276420980692
+    }
+  ]
+}

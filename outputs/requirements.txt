@@ -1,0 +1,6 @@
+xgboost==3.4.1
+scikit-learn==1.9.1
+fastf1==3.8.3
+pandas==2.3.3
+numpy==2.5.3
+joblib==1.6.0
